@@ -1,8 +1,8 @@
 <div align="center">
 
-👋 Hey, I'm Abhinav
+# 👋 Hey, I'm Abhinav
 
-Developer • Builder • Explorer • Professional Bug Negotiator
+### `Developer • Builder • Explorer • Professional Bug Negotiator`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+things+I+find+interesting.;I+learn+by+breaking+things.;Sometimes+the+bugs+win.;But+I+usually+come+back+for+the+rematch+%F0%9F%98%8E" alt="Typing SVG"/>
 
@@ -24,31 +24,49 @@ Developer • Builder • Explorer • Professional Bug Negotiator
 
 </div>
 
-🧑‍💻 A little about me
+---
 
-name: Abhinav Kumar Singh
-location: India
-role: Developer
-status: Always learning
-fuel:
-  - ☕ Coffee
-  - 🎧 Music
-  - 🧠 Curiosity
-  - 🔥 Random side projects
+## 🧑‍💻 A little about me
 
-current_mission:
-  "Build something interesting before the next rabbit hole appears."
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I like technology, experimenting with ideas, learning new tools and turning
-random thoughts into things that actually run.
+### `> whoami`
 
-Sometimes that means a useful project.
+```text
+Name       : Abhinav Kumar Singh
+Location   : India
+Role       : Developer
+Status     : Always learning
+Mood       : Building something 🚀
+```
 
-Sometimes it means a README with a game inside it.
+I enjoy technology, experimenting with ideas, learning new tools, and turning random thoughts into things that actually run.
 
-Both are valid engineering. 😌
+Sometimes it's a useful project.  
+Sometimes it's a README with a game inside it. 🎮
 
-🧰 My Toolbox
+</td>
+<td width="42%" valign="top">
+
+### ⚡ My current vibe
+
+| | |
+|---|---|
+| 🧠 | Learning |
+| 💻 | Building |
+| 🎮 | Gaming |
+| 🎧 | Music |
+| 🔥 | Side projects |
+
+</td>
+</tr>
+</table>
+
+> `coffee → idea → code → bug → debug → repeat`
+
+## 🧰 My Toolbox
 
 <div align="center">
 
@@ -69,15 +87,18 @@ Both are valid engineering. 😌
 
 </div>
 
-🎮 README Arcade
+---
 
-Warning: You are now entering the least productive section of this profile.
+# 🎮 README Arcade
+
+> **Warning:** You are now entering the least productive section of this profile.
 
 <details>
 <summary>🕹️ GAME 1: Fight the Bug</summary>
 
 <br>
 
+```text
              🐛
           .-""""-.
          /  BUG!  \
@@ -87,12 +108,14 @@ Warning: You are now entering the least productive section of this profile.
 
       ❤️ ❤️ ❤️ ❤️ ❤️
       HP: 100 / 100
+```
 
 Choose your move:
 
 <details>
 <summary>⚔️ Attack</summary>
 
+```text
 You attacked with:
     console.log("WHY?!");
 
@@ -103,12 +126,14 @@ Critical hit!
 Bug HP: 97 / 100
 
 The bug has evolved.
+```
 
 </details>
 
 <details>
 <summary>🧠 Debug</summary>
 
+```text
 You added one print statement.
 
 The bug disappeared.
@@ -122,12 +147,14 @@ Reason:
 Unknown.
 
 This is probably fine.
+```
 
 </details>
 
 <details>
 <summary>🔥 Delete the code</summary>
 
+```text
 git status
 
 3 files changed
@@ -137,75 +164,57 @@ You feel strangely peaceful.
 
 Achievement unlocked:
 💀 "It works now"
+```
 
 </details>
 
 </details>
+
+---
 
 <details>
 <summary>🎲 GAME 2: Pick Your Developer Class</summary>
 
 <br>
 
-Class
-
-Power
-
-Weakness
-
-🧙 Debug Wizard
-
-Finds invisible bugs
-
-Creates 3 new ones
-
-🥷 Git Ninja
-
-Survives merge conflicts
-
-Pushes to wrong branch
-
-🤖 Automation Bot
-
-Automates everything
-
-Automates the wrong thing
-
-🧑‍💻 Developer
-
-Can Google anything
-
-"Just one small change..."
+| Class | Power | Weakness |
+|---|---|---|
+| 🧙 Debug Wizard | Finds invisible bugs | Creates 3 new ones |
+| 🥷 Git Ninja | Survives merge conflicts | Pushes to wrong branch |
+| 🤖 Automation Bot | Automates everything | Automates the wrong thing |
+| 🧑‍💻 Developer | Can Google anything | "Just one small change..." |
 
 <details>
 <summary>🧙 Debug Wizard</summary>
 
-DEBUG +50 STACKOVERFLOW +20 SLEEP -10
+`DEBUG +50` `STACKOVERFLOW +20` `SLEEP -10`
 
 </details>
 
 <details>
 <summary>🥷 Git Ninja</summary>
 
-GIT +100 MERGE CONFLICT -30
+`GIT +100` `MERGE CONFLICT -30`
 
 </details>
 
 <details>
 <summary>🤖 Automation Bot</summary>
 
-AUTOMATION +100 LAZINESS +∞
+`AUTOMATION +100` `LAZINESS +∞`
 
 </details>
 
 <details>
 <summary>🧑‍💻 Developer</summary>
 
-GOOGLE-FU +999 DOCUMENTATION +404
+`GOOGLE-FU +999` `DOCUMENTATION +404`
 
 </details>
 
 </details>
+
+---
 
 <details>
 <summary>🎰 GAME 3: Developer Loot Box</summary>
@@ -214,6 +223,7 @@ GOOGLE-FU +999 DOCUMENTATION +404
 
 Open at your own risk.
 
+```text
 ╔══════════════════════════════════╗
 ║          📦 LOOT BOX             ║
 ╠══════════════════════════════════╣
@@ -221,21 +231,24 @@ Open at your own risk.
 ║       [  OPEN  ]                 ║
 ║                                  ║
 ╚══════════════════════════════════╝
+```
 
 <details>
 <summary>🔓 Open</summary>
 
 You received:
 
+```text
 ☕ +1 Coffee
 🧠 +5 Knowledge
 🐛 +7 Bugs
 🌙 -2 Hours of Sleep
 ⭐ +1 "I should build this" idea
+```
 
-Legendary item obtained:
+**Legendary item obtained:**
 
-ONE MORE FEATURE
+> `ONE MORE FEATURE`
 
 It has no known expiration date.
 
@@ -243,8 +256,11 @@ It has no known expiration date.
 
 </details>
 
-🧪 Developer Personality Test
+---
 
+## 🧪 Developer Personality Test
+
+```text
 You see:
 
     Error: Something went wrong.
@@ -256,44 +272,41 @@ B → Restart the computer
 C → Search the error on Google
 D → Stare at the screen
 E → All of the above, in that order
+```
 
 <details>
 <summary>🧠 Reveal the scientifically accurate answer</summary>
 
-E.
+**E.**
 
 There was never another option.
 
 </details>
 
-🧩 Secret Developer Achievements
+---
+
+## 🧩 Secret Developer Achievements
 
 <details>
 <summary>🏆 Click to unlock achievements</summary>
 
 <br>
 
-🟩 Hello World — Written at least once
-
-🐛 Bug Hunter — Fixed a bug that created another bug
-
-🔥 Night Coder — Said "I'll stop after this"
-
-⚔️ Merge Survivor — Survived a conflict
-
-🧙 Stack Overflow Mage — Found the exact answer
-
-🗿 Works on My Machine — A timeless classic
-
-🚀 Ship It — Pushed before overthinking
-
-💀 Production Incident — Character development unlocked
-
-☕ Coffee Powered — System running above recommended caffeine limits
+- 🟩 **Hello World** — Written at least once
+- 🐛 **Bug Hunter** — Fixed a bug that created another bug
+- 🔥 **Night Coder** — Said "I'll stop after this"
+- ⚔️ **Merge Survivor** — Survived a conflict
+- 🧙 **Stack Overflow Mage** — Found the exact answer
+- 🗿 **Works on My Machine** — A timeless classic
+- 🚀 **Ship It** — Pushed before overthinking
+- 💀 **Production Incident** — Character development unlocked
+- ☕ **Coffee Powered** — System running above recommended caffeine limits
 
 </details>
 
-📊 GitHub Command Center
+---
+
+# 📊 GitHub Command Center
 
 <div align="center">
 
@@ -307,7 +320,9 @@ There was never another option.
 
 </div>
 
-🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -320,10 +335,13 @@ There was never another option.
 
 Create:
 
+```text
 .github/workflows/snake.yml
+```
 
 and add:
 
+```yaml
 name: Generate Contribution Snake
 
 on:
@@ -351,75 +369,155 @@ jobs:
           build_dir: dist
         env:
           GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+```
 
 </details>
 
-🌌 Random Things I Enjoy
+---
+
+# 🌌 The Human Behind the Code
+
+<table>
+<tr>
+<td align="center" width="20%">
+<h2>🧠</h2>
+<b>Learning</b><br>
+<sub>Always curious</sub>
+</td>
+<td align="center" width="20%">
+<h2>🎮</h2>
+<b>Gaming</b><br>
+<sub>Side quest mode</sub>
+</td>
+<td align="center" width="20%">
+<h2>🎧</h2>
+<b>Music</b><br>
+<sub>Code soundtrack</sub>
+</td>
+<td align="center" width="20%">
+<h2>🚀</h2>
+<b>Building</b><br>
+<sub>Ideas → reality</sub>
+</td>
+<td align="center" width="20%">
+<h2>🔭</h2>
+<b>Exploring</b><br>
+<sub>New rabbit holes</sub>
+</td>
+</tr>
+</table>
+
+<details>
+<summary>🎯 <b>My unofficial operating system</b></summary>
+
+<br>
+
+```text
+┌──────────────────────────────────────────────┐
+│              ABHINAV.OS v2.0                 │
+├──────────────────────────────────────────────┤
+│ 🧠 Curiosity       ████████████████████ 100% │
+│ 💻 Building        █████████████████░░░  85% │
+│ 🎮 Gaming          ██████████████░░░░░  70% │
+│ 🎧 Music           █████████████████░░░  90% │
+│ ☕ Coffee          ████████████████████ 100% │
+│ 😴 Sleep           ███████░░░░░░░░░░░░  35% │
+└──────────────────────────────────────────────┘
+```
+
+**System message:** `One more feature?`  
+**User:** `Yes.`  
+**System:** `That was 4 hours ago.`
+
+</details>
+
+---
+
+# 📊 GitHub Command Center
 
 <div align="center">
 
-🧠
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-K-Singh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Abhinav's%20GitHub" height="175"/>
 
-🎮
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-K-Singh&layout=compact&langs_count=6&hide_border=true&custom_title=Most%20Used%20Languages" height="175"/>
 
-🎧
+<br><br>
 
-🚀
-
-Learning
-
-Gaming
-
-Music
-
-Building
-
-Curiosity
-
-Strategy
-
-Discovery
-
-Experiments
+<img src="https://streak-stats.demolab.com?user=Abhinav-K-Singh&hide_border=true&mode=weekly" width="68%"/>
 
 </div>
 
-🧭 Current Status
+---
 
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  🧠 Learning       ████████████████████░░  90%   │
-│  💻 Building       █████████████████░░░░░  80%   │
-│  ☕ Coffee         ██████████████████████  100%  │
-│  😴 Sleeping       ███████░░░░░░░░░░░░░  35%    │
-│  🐛 Fighting Bugs  ████████████████████  99%    │
-│                                                  │
-└──────────────────────────────────────────────────┘
+## 🐍 Contribution Snake
 
-🌐 Let's Connect
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abhinav-K-Singh/Abhinav-K-Singh/output/github-contribution-grid-snake.svg" width="88%" alt="GitHub contribution snake"/>
+
+<br>
+
+<sub>Every square is a tiny reminder that future-you is judging present-you.</sub>
+
+</div>
+
+<details>
+<summary>⚙️ <b>Snake not showing?</b></summary>
+
+The snake needs a GitHub Action to generate the SVG. Create:
+
+```text
+.github/workflows/snake.yml
+```
+
+and use the workflow from the earlier setup section.
+
+</details>
+
+---
+
+## 🧭 Current Status
+
+<div align="center">
+
+| 🧠 Learning | 💻 Building | 🎮 Gaming | ☕ Coffee |
+|:---:|:---:|:---:|:---:|
+| `90%` | `85%` | `70%` | `100%` |
+
+<br>
+
+| 🐛 Bug Fighting | 🚀 Ideas | 😴 Sleep |
+|:---:|:---:|:---:|
+| `99%` | `∞` | `35%` |
+
+</div>
+
+> **Current mission:** Find an interesting idea and turn it into something people can actually click. 🚀
+
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Abhinav-K-Singh">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Abhinav--K--Singh-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/abhinav712/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Abhinav%20712-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:singhabhinav.aks@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-Thanks for visiting 👋
+<img src="https://komarev.com/ghpvc/?username=Abhinav-K-Singh&style=for-the-badge&color=0ea5e9&label=PROFILE+VISITORS"/>
 
-while (alive) { learn(); build(); breakThings(); fixThings(); }
+<br><br>
+
+### `while (alive) { learn(); build(); explore(); }`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%"/>
 
 </div>
