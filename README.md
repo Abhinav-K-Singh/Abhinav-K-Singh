@@ -25,7 +25,7 @@ company: Tata Consultancy Services
 location: Kolkata, West Bengal, India (originally from Lucknow, UP)
 experience: 2+ years
 focus: ETL/ELT pipelines @ enterprise scale (10M+ records, 1000+ files)
-currently_exploring: ["Agentic AI data readiness", "Finance automation"]
+currently_exploring: ["Agentic AI data readiness"]
 education: B.E. Computer Science, Chandigarh University (CGPA 7.98)
 ```
 
@@ -67,44 +67,7 @@ I build and maintain **production-grade data pipelines** on Azure Databricks and
 
 ---
 
-### 🏗️ What I've Been Building
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏥 Walgreens Healthcare Data Platform**
-`Azure Databricks` `Spark SQL` `Snowflake`
-- Built scalable ETL pipelines ingesting structured & semi-structured healthcare data into Snowflake
-- Tuned warehouse queries for millions of records, boosting availability & performance
-
-</td>
-<td width="50%" valign="top">
-
-**🛒 E-Commerce Store Data Pipeline**
-`Databricks` `Azure Data Factory`
-- Designed Medallion Architecture (Bronze → Silver → Gold)
-- Standardized and automated reporting workflows for consistency at scale
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 Impact, By the Numbers
-
-<div align="center">
-
-| 🚀 Query Performance | ⚡ Processing Time | 🤖 Manual Effort | 🔐 Records Secured |
-|:---:|:---:|:---:|:---:|
-| **+35%** faster | **-35%** reduced | **-30%** via automation | **10M+** masked & encrypted |
-
-</div>
-
-Delivered via a Medallion Architecture (Bronze/Silver/Gold) in Databricks, daily workflow orchestration across **1000+ files** through Azure Data Factory + Control-M, and automated dependency/parameter detection to cut down manual toil.
-
----
 
 ### 🏆 Certifications & Recognition
 
@@ -118,8 +81,8 @@ Delivered via a Medallion Architecture (Bronze/Silver/Gold) in Databricks, daily
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-K-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-K-Singh&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
 
