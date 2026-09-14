@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Abhinav
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABHINAV%20KUMAR%20SINGH&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Data%20%E2%80%A2%20Builder&descAlignY=60&descSize=18" width="100%"/>
 
-### `Developer • Builder • Explorer • Professional Bug Negotiator`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Building%2C+learning%2C+experimenting.;Turning+ideas+into+things+that+actually+run.;Data+%7C+Cloud+%7C+Code+%7C+Curiosity" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+things+I+find+interesting.;I+learn+by+breaking+things.;Sometimes+the+bugs+win.;But+I+usually+come+back+for+the+rematch+%F0%9F%98%8E" alt="Typing SVG"/>
-
-<br>
+<br><br>
 
 <a href="https://github.com/Abhinav-K-Singh">
 <img src="https://img.shields.io/badge/GitHub-Abhinav--K--Singh-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -20,426 +18,72 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Abhinav-K-Singh&style=for-the-badge&color=0ea5e9&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=Abhinav-K-Singh&style=for-the-badge&color=0ea5e9&label=PROFILE+VISITORS"/>
 
 </div>
 
----
+⚙️ Technical Zone
 
-## 🧑‍💻 A little about me
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### `> whoami`
-
-```text
-Name       : Abhinav Kumar Singh
-Location   : India
-Role       : Developer
-Status     : Always learning
-Mood       : Building something 🚀
-```
-
-I enjoy technology, experimenting with ideas, learning new tools, and turning random thoughts into things that actually run.
-
-Sometimes it's a useful project.  
-Sometimes it's a README with a game inside it. 🎮
-
-</td>
-<td width="42%" valign="top">
-
-### ⚡ My current vibe
-
-| | |
-|---|---|
-| 🧠 | Learning |
-| 💻 | Building |
-| 🎮 | Gaming |
-| 🎧 | Music |
-| 🔥 | Side projects |
-
-</td>
-</tr>
-</table>
-
-> `coffee → idea → code → bug → debug → repeat`
-
-## 🧰 My Toolbox
+🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,azure,git,github,linux,vscode&theme=dark" />
+☁️ Cloud & Data
+
+<img src="https://skillicons.dev/icons?i=azure,python,git,github,linux,vscode&theme=dark"/>
 
 <br><br>
 
-<img src="https://cdn.simpleicons.org/databricks/FF3621" height="48"/>
-<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48"/>
-<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48"/>
+<img src="https://cdn.simpleicons.org/databricks/FF3621" height="50"/>
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="50"/>
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="50"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
+
+
+
 
 </div>
 
----
+🏗️ Data Engineering Playground
 
-# 🎮 README Arcade
+flowchart LR
+    A["📥 Data Sources"] --> B["🔄 Ingestion"]
+    B --> C["🥉 Bronze"]
+    C --> D["🥈 Silver"]
+    D --> E["🥇 Gold"]
+    E --> F["📊 Analytics"]
 
-> **Warning:** You are now entering the least productive section of this profile.
+    B -.-> G["⚙️ Orchestration"]
+    C -.-> H["🔍 Data Quality"]
+    D -.-> H
+    E -.-> H
+    C -.-> I["🛡️ Security"]
+    D -.-> I
 
 <details>
-<summary>🕹️ GAME 1: Fight the Bug</summary>
+<summary>🔎 <b>Architecture notes</b></summary>
 
 <br>
 
-```text
-             🐛
-          .-""""-.
-         /  BUG!  \
-        |  ಠ_ಠ    |
-         \        /
-          '-.__.-'
-
-      ❤️ ❤️ ❤️ ❤️ ❤️
-      HP: 100 / 100
-```
-
-Choose your move:
-
-<details>
-<summary>⚔️ Attack</summary>
-
-```text
-You attacked with:
-    console.log("WHY?!");
-
-Critical hit!
-
-🐛 took 3 damage.
-
-Bug HP: 97 / 100
-
-The bug has evolved.
-```
+Bronze → raw incoming data
+Silver → cleaned and validated data
+Gold → business-ready data
+Orchestration → schedules and dependencies
+Quality → checks that keep pipelines trustworthy
+Security → protection for sensitive data
 
 </details>
 
-<details>
-<summary>🧠 Debug</summary>
-
-```text
-You added one print statement.
-
-The bug disappeared.
-
-You changed nothing else.
-
-Result:
-SUCCESS
-
-Reason:
-Unknown.
-
-This is probably fine.
-```
-
-</details>
-
-<details>
-<summary>🔥 Delete the code</summary>
-
-```text
-git status
-
-3 files changed
-847 lines deleted
-
-You feel strangely peaceful.
-
-Achievement unlocked:
-💀 "It works now"
-```
-
-</details>
-
-</details>
-
----
-
-<details>
-<summary>🎲 GAME 2: Pick Your Developer Class</summary>
-
-<br>
-
-| Class | Power | Weakness |
-|---|---|---|
-| 🧙 Debug Wizard | Finds invisible bugs | Creates 3 new ones |
-| 🥷 Git Ninja | Survives merge conflicts | Pushes to wrong branch |
-| 🤖 Automation Bot | Automates everything | Automates the wrong thing |
-| 🧑‍💻 Developer | Can Google anything | "Just one small change..." |
-
-<details>
-<summary>🧙 Debug Wizard</summary>
-
-`DEBUG +50` `STACKOVERFLOW +20` `SLEEP -10`
-
-</details>
-
-<details>
-<summary>🥷 Git Ninja</summary>
-
-`GIT +100` `MERGE CONFLICT -30`
-
-</details>
-
-<details>
-<summary>🤖 Automation Bot</summary>
-
-`AUTOMATION +100` `LAZINESS +∞`
-
-</details>
-
-<details>
-<summary>🧑‍💻 Developer</summary>
-
-`GOOGLE-FU +999` `DOCUMENTATION +404`
-
-</details>
-
-</details>
-
----
-
-<details>
-<summary>🎰 GAME 3: Developer Loot Box</summary>
-
-<br>
-
-Open at your own risk.
-
-```text
-╔══════════════════════════════════╗
-║          📦 LOOT BOX             ║
-╠══════════════════════════════════╣
-║                                  ║
-║       [  OPEN  ]                 ║
-║                                  ║
-╚══════════════════════════════════╝
-```
-
-<details>
-<summary>🔓 Open</summary>
-
-You received:
-
-```text
-☕ +1 Coffee
-🧠 +5 Knowledge
-🐛 +7 Bugs
-🌙 -2 Hours of Sleep
-⭐ +1 "I should build this" idea
-```
-
-**Legendary item obtained:**
-
-> `ONE MORE FEATURE`
-
-It has no known expiration date.
-
-</details>
-
-</details>
-
----
-
-## 🧪 Developer Personality Test
-
-```text
-You see:
-
-    Error: Something went wrong.
-
-What do you do?
-
-A → Restart the application
-B → Restart the computer
-C → Search the error on Google
-D → Stare at the screen
-E → All of the above, in that order
-```
-
-<details>
-<summary>🧠 Reveal the scientifically accurate answer</summary>
-
-**E.**
-
-There was never another option.
-
-</details>
-
----
-
-## 🧩 Secret Developer Achievements
-
-<details>
-<summary>🏆 Click to unlock achievements</summary>
-
-<br>
-
-- 🟩 **Hello World** — Written at least once
-- 🐛 **Bug Hunter** — Fixed a bug that created another bug
-- 🔥 **Night Coder** — Said "I'll stop after this"
-- ⚔️ **Merge Survivor** — Survived a conflict
-- 🧙 **Stack Overflow Mage** — Found the exact answer
-- 🗿 **Works on My Machine** — A timeless classic
-- 🚀 **Ship It** — Pushed before overthinking
-- 💀 **Production Incident** — Character development unlocked
-- ☕ **Coffee Powered** — System running above recommended caffeine limits
-
-</details>
-
----
-
-# 📊 GitHub Command Center
+📊 GitHub Command Center
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-K-Singh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Abhinav's%20GitHub" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-K-Singh&layout=compact&langs_count=8&hide_border=true&custom_title=Languages" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Abhinav-K-Singh&hide_border=true&mode=weekly" width="70%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abhinav-K-Singh/Abhinav-K-Singh/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake"/>
-
-</div>
-
-<details>
-<summary>⚙️ Want the snake to actually work?</summary>
-
-Create:
-
-```text
-.github/workflows/snake.yml
-```
-
-and add:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
-# 🌌 The Human Behind the Code
-
-<table>
-<tr>
-<td align="center" width="20%">
-<h2>🧠</h2>
-<b>Learning</b><br>
-<sub>Always curious</sub>
-</td>
-<td align="center" width="20%">
-<h2>🎮</h2>
-<b>Gaming</b><br>
-<sub>Side quest mode</sub>
-</td>
-<td align="center" width="20%">
-<h2>🎧</h2>
-<b>Music</b><br>
-<sub>Code soundtrack</sub>
-</td>
-<td align="center" width="20%">
-<h2>🚀</h2>
-<b>Building</b><br>
-<sub>Ideas → reality</sub>
-</td>
-<td align="center" width="20%">
-<h2>🔭</h2>
-<b>Exploring</b><br>
-<sub>New rabbit holes</sub>
-</td>
-</tr>
-</table>
-
-<details>
-<summary>🎯 <b>My unofficial operating system</b></summary>
-
-<br>
-
-```text
-┌──────────────────────────────────────────────┐
-│              ABHINAV.OS v2.0                 │
-├──────────────────────────────────────────────┤
-│ 🧠 Curiosity       ████████████████████ 100% │
-│ 💻 Building        █████████████████░░░  85% │
-│ 🎮 Gaming          ██████████████░░░░░  70% │
-│ 🎧 Music           █████████████████░░░  90% │
-│ ☕ Coffee          ████████████████████ 100% │
-│ 😴 Sleep           ███████░░░░░░░░░░░░  35% │
-└──────────────────────────────────────────────┘
-```
-
-**System message:** `One more feature?`  
-**User:** `Yes.`  
-**System:** `That was 4 hours ago.`
-
-</details>
-
----
-
-# 📊 GitHub Command Center
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-K-Singh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Abhinav's%20GitHub" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-K-Singh&layout=compact&langs_count=6&hide_border=true&custom_title=Most%20Used%20Languages" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-K-Singh&layout=compact&langs_count=6&hide_border=true&custom_title=Languages" height="180"/>
 
 <br><br>
 
@@ -447,62 +91,165 @@ jobs:
 
 </div>
 
----
+📌 What I'm Building & Learning
 
-## 🐍 Contribution Snake
+<table>
+<tr>
+<td align="center" width="25%">☁️<br><b>Cloud</b><br><sub>Exploring better cloud patterns</sub></td>
+<td align="center" width="25%">⚡<br><b>Data</b><br><sub>Making pipelines smarter</sub></td>
+<td align="center" width="25%">🤖<br><b>AI</b><br><sub>Exploring AI + data</sub></td>
+<td align="center" width="25%">🧪<br><b>Projects</b><br><sub>Trying new ideas</sub></td>
+</tr>
+</table>
+
+🌍 Beyond the Code
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abhinav-K-Singh/Abhinav-K-Singh/output/github-contribution-grid-snake.svg" width="88%" alt="GitHub contribution snake"/>
-
-<br>
-
-<sub>Every square is a tiny reminder that future-you is judging present-you.</sub>
+<img src="assets/coder.png" width="720" alt="Coder illustration"/>
 
 </div>
 
+🧳 Travelling & Exploring
+
+When I'm away from the keyboard, I like discovering new places, trying different food, seeing how people live in different cities, and collecting stories that don't fit into a Git commit.
+
+🗺️ New place      → +10 curiosity
+🍜 New food        → +20 happiness
+📸 New view        → +50 memories
+🚶 Random road     → +100 adventure
+🧭 Getting lost    → "Interesting..."
+
 <details>
-<summary>⚙️ <b>Snake not showing?</b></summary>
+<summary>🌎 <b>My travel rule</b></summary>
 
-The snake needs a GitHub Action to generate the SVG. Create:
+<br>
 
-```text
-.github/workflows/snake.yml
-```
+Don't just visit a place. Explore it.
 
-and use the workflow from the earlier setup section.
+No strict checklist.
+Sometimes the best part of a trip is the place you didn't plan to find.
 
 </details>
 
----
+🎮 Small Corner of Chaos
 
-## 🧭 Current Status
-
-<div align="center">
-
-| 🧠 Learning | 💻 Building | 🎮 Gaming | ☕ Coffee |
-|:---:|:---:|:---:|:---:|
-| `90%` | `85%` | `70%` | `100%` |
+<details>
+<summary>🐛 <b>Encounter: A Wild Bug Appeared</b></summary>
 
 <br>
 
-| 🐛 Bug Fighting | 🚀 Ideas | 😴 Sleep |
-|:---:|:---:|:---:|
-| `99%` | `∞` | `35%` |
+              🐛
+           .-""""-.
+          /  BUG!  \
+         |  ಠ_ಠ    |
+          \        /
+           '-.__.-'
+
+          HP: ██████████ 100
+
+Choose your attack:
+
+A. console.log("WHY?");
+B. Restart everything
+C. Search the error
+D. Pretend it never happened
+E. All of the above
+
+<details>
+<summary>🧠 Reveal result</summary>
+
+You chose wisely.
+
+The bug disappeared after adding one print statement.
+
+Nobody knows why.
+
++100 XP
++1 Debugging Wisdom
+
+</details>
+
+</details>
+
+<details>
+<summary>🎲 <b>Developer Class Generator</b></summary>
+
+<br>
+
+Class
+
+Ability
+
+Side Effect
+
+🧙 Debug Wizard
+
+Finds mysterious bugs
+
+Creates mysterious bugs
+
+🥷 Git Ninja
+
+Survives merge conflicts
+
+Occasionally pushes to main
+
+🤖 Automation Bot
+
+Automates everything
+
+Automates everything
+
+🧑‍💻 Builder
+
+Turns ideas into projects
+
+"One more feature..."
+
+</details>
+
+🧠 Completely Unofficial Status
+
+<div align="center">
+
+🧠 Learning
+
+💻 Building
+
+🎮 Gaming
+
+🎧 Music
+
+☕ Coffee
+
+90%
+
+85%
+
+70%
+
+90%
+
+100%
 
 </div>
 
-> **Current mission:** Find an interesting idea and turn it into something people can actually click. 🚀
+Current mission:
+[████████████████████░░] Find a cool idea
+[██████████████████░░░░] Build it
+[███████████████░░░░░░░] Make it better
+[██████████████████████] Add one unnecessary feature
 
-## 🌐 Let's Connect
+🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Abhinav-K-Singh">
-<img src="https://img.shields.io/badge/GITHUB-Abhinav--K--Singh-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/abhinav712/">
-<img src="https://img.shields.io/badge/LINKEDIN-Abhinav%20712-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:singhabhinav.aks@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -510,14 +257,10 @@ and use the workflow from the earlier setup section.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Abhinav-K-Singh&style=for-the-badge&color=0ea5e9&label=PROFILE+VISITORS"/>
-
-<br><br>
-
-### `while (alive) { learn(); build(); explore(); }`
+while (alive) { learn(); build(); explore(); }
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=110&section=footer" width="100%"/>
 
 </div>
