@@ -1,13 +1,11 @@
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABHINAV%20KUMAR%20SINGH&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Data%20Engineer%20%E2%80%A2%20Azure%20%E2%80%A2%20Databricks%20%E2%80%A2%20Snowflake&descAlignY=60&descSize=18" width="100%"/>
 
-<a href="https://github.com/Abhinav-K-Singh">
-<img src="https://img.shields.io/badge/PROFILE-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:singhabhinav.aks@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/Abhinav-K-Singh"> <img src="https://img.shields.io/badge/PROFILE-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:singhabhinav.aks@gmail.com"> <img src="https://img.shields.io/badge/CONTACT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 <br><br>
 
@@ -15,77 +13,58 @@
 
 </div>
 
----
+🧭 whoami
+Cloud Data Engineer focused on production ETL/ELT, distributed processing, cloud data platforms and automation.
 
-## 🧭 `whoami`
+<table> <tr> <td width="55%">
 
-> **Cloud Data Engineer** focused on production ETL/ELT, distributed processing, cloud data platforms and automation.
+⚡ At a glance
+🏢 Cloud Data Engineer at Tata Consultancy Services
 
-<table>
-<tr>
-<td width="55%">
+☁️ Azure-first data engineering
 
-### ⚡ At a glance
+🔥 Databricks + PySpark for distributed processing
 
-- 🏢 **Cloud Data Engineer** at Tata Consultancy Services
-- ☁️ **Azure-first** data engineering
-- 🔥 **Databricks + PySpark** for distributed processing
-- ❄️ **Snowflake** for analytics workloads
-- 🐍 **Python + SQL** for transformation & pipeline development
-- 🔄 **ADF + Control-M + Databricks Workflows**
-- 🛡️ Data quality, masking, encryption & monitoring
-- 🚀 Exploring **Agentic AI data readiness**
+❄️ Snowflake for analytics workloads
 
-</td>
-<td width="45%">
+🐍 Python + SQL for transformation & pipeline development
 
-### 🎯 Engineering scoreboard
+🔄 ADF + Control-M + Databricks Workflows
 
-| Metric | Impact |
-|---|---:|
-| 📦 Records processed | **10M+** |
-| 📁 Files automated | **1,000+** |
-| ⚡ Query / processing improvement | **35%** |
-| 🤖 Manual effort reduced | **30%** |
-| 🏆 Applause Awards | **2×** |
-| ⭐ Spot Awards | **2×** |
+🛡️ Data quality, masking, encryption & monitoring
 
-</td>
-</tr>
-</table>
+🚀 Exploring Agentic AI data readiness
 
----
+</td> <td width="45%">
 
-## 🧰 My Data Engineering Stack
+🎯 Engineering scoreboard
+Metric	Impact
+📦 Records processed	10M+
+📁 Files automated	1,000+
+⚡ Query / processing improvement	35%
+🤖 Manual effort reduced	30%
+🏆 Applause Awards	2×
+⭐ Spot Awards	2×
+</td> </tr> </table>
 
+🧰 My Data Engineering Stack
 <div align="center">
 
-### ☁️ Cloud & Platform
+☁️ Cloud & Platform
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" height="52"/> <img src="https://cdn.simpleicons.org/databricks/FF3621" height="52"/> <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="52"/>
 
-<img src="https://skillicons.dev/icons?i=azure&theme=dark" height="52"/>
-<img src="https://cdn.simpleicons.org/databricks/FF3621" height="52"/>
-<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="52"/>
+⚙️ Code & Processing
+<img src="https://skillicons.dev/icons?i=python,git&theme=dark" height="52"/> <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="52"/> <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="52"/>
 
-### ⚙️ Code & Processing
+🔄 Engineering & Orchestration
 
-<img src="https://skillicons.dev/icons?i=python,git&theme=dark" height="52"/>
-<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="52"/>
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="52"/>
 
-### 🔄 Engineering & Orchestration
 
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Databricks Workflows](https://img.shields.io/badge/Databricks_Workflows-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Control--M](https://img.shields.io/badge/Control--M-0052CC?style=flat-square)
+
 
 </div>
 
----
-
-## 🏗️ How I Think About Data
-
-```mermaid
+🏗️ How I Think About Data
 flowchart LR
     A["📥 Sources<br/>Files / Structured / Semi-structured"]
     B["🔄 Ingestion<br/>Azure Data Factory"]
@@ -107,71 +86,70 @@ flowchart LR
     S -.-> C
     S -.-> D
     O -.-> B
-```
-
-<details>
-<summary>🔎 Click to see the architecture philosophy</summary>
+<details> <summary>🔎 Click to see the architecture philosophy</summary>
 
 <br>
 
-**Bronze → Silver → Gold** keeps ingestion, transformation and business-ready data separated.
+Bronze → Silver → Gold keeps ingestion, transformation and business-ready data separated.
 
-- **Bronze:** preserve incoming data and ingestion history
-- **Silver:** clean, validate and transform
-- **Gold:** serve analytics and reporting use cases
-- **Orchestration:** automate dependencies and schedules
-- **Quality:** validate data throughout the pipeline
-- **Security:** protect sensitive production data
+Bronze: preserve incoming data and ingestion history
+
+Silver: clean, validate and transform
+
+Gold: serve analytics and reporting use cases
+
+Orchestration: automate dependencies and schedules
+
+Quality: validate data throughout the pipeline
+
+Security: protect sensitive production data
 
 </details>
 
----
+🚀 Featured Engineering Projects
+<table> <tr> <td width="50%">
 
-## 🚀 Featured Engineering Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 Walgreens Healthcare Data Platform
-
-**Stack:** `Azure Databricks` `PySpark` `Spark SQL` `Snowflake`
+🏥 Walgreens Healthcare Data Platform
+Stack: Azure Databricks PySpark Spark SQL Snowflake
 
 Scalable ETL pipelines for structured and semi-structured healthcare data, supporting analytics across millions of records.
 
-**Focus**
-- Data ingestion
-- Distributed transformation
-- Snowflake analytics
-- Query optimization
-- Data availability
+Focus
 
-</td>
-<td width="50%">
+Data ingestion
 
-### 🛒 E-Commerce Store Data Pipeline
+Distributed transformation
 
-**Stack:** `Databricks` `Azure Data Factory`
+Snowflake analytics
 
-A production-style data pipeline built around the **Medallion Architecture**.
+Query optimization
 
-**Focus**
-- Bronze → Silver → Gold
-- Automated processing
-- Reporting workflows
-- Data quality
-- Analytical performance
+Data availability
 
-</td>
-</tr>
-</table>
+</td> <td width="50%">
 
-> 💡 **Want the code?** Explore the pinned repositories below. The profile is designed so the projects become the main entry points into the portfolio.
+🛒 E-Commerce Store Data Pipeline
+Stack: Databricks Azure Data Factory
 
----
+A production-style data pipeline built around the Medallion Architecture.
 
-## 📈 GitHub Command Center
+Focus
 
+Bronze → Silver → Gold
+
+Automated processing
+
+Reporting workflows
+
+Data quality
+
+Analytical performance
+
+</td> </tr> </table>
+
+💡 Want the code? Explore the pinned repositories below. The profile is designed so the projects become the main entry points into the portfolio.
+
+📈 GitHub Command Center
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-K-Singh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Abhinav's%20GitHub%20Stats" height="180"/>
@@ -184,25 +162,21 @@ A production-style data pipeline built around the **Medallion Architecture**.
 
 </div>
 
----
-
-## 🐍 Contribution Trail
-
+🐍 Contribution Trail
 <div align="center">
 
 <!-- To activate the snake animation, enable the GitHub Action described below. -->
+
 <img src="https://raw.githubusercontent.com/Abhinav-K-Singh/Abhinav-K-Singh/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="90%"/>
 
 </div>
 
-<details>
-<summary>⚙️ How to activate the contribution snake</summary>
+<details> <summary>⚙️ How to activate the contribution snake</summary>
 
 Create this file in your profile repository:
 
-`.github/workflows/snake.yml`
+.github/workflows/snake.yml
 
-```yaml
 name: Generate contribution snake
 
 on:
@@ -229,43 +203,23 @@ jobs:
           build_dir: dist
         env:
           GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-```
-
 </details>
 
----
-
-## 🏆 Credentials & Recognition
-
+🏆 Credentials & Recognition
 <div align="center">
 
 <img src="https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Applause%20Award-2%C3%97-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spot%20Award-2%C3%97-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Applause%20Award-2%C3%97-FFD700?style=for-the-badge"/> <img src="https://img.shields.io/badge/Spot%20Award-2%C3%97-7C3AED?style=for-the-badge"/>
 
 </div>
 
----
+🧠 Currently Exploring
+<table> <tr> <td align="center">🤖<br/><b>Agentic AI</b><br/><sub>AI-ready data foundations</sub></td> <td align="center">💰<br/><b>Finance Automation</b><br/><sub>Data-driven workflows</sub></td> <td align="center">⚡<br/><b>Spark Optimization</b><br/><sub>Faster distributed workloads</sub></td> <td align="center">☁️<br/><b>Cloud Data Platforms</b><br/><sub>Scalable architecture</sub></td> </tr> </table>
 
-## 🧠 Currently Exploring
-
-<table>
-<tr>
-<td align="center">🤖<br/><b>Agentic AI</b><br/><sub>AI-ready data foundations</sub></td>
-<td align="center">💰<br/><b>Finance Automation</b><br/><sub>Data-driven workflows</sub></td>
-<td align="center">⚡<br/><b>Spark Optimization</b><br/><sub>Faster distributed workloads</sub></td>
-<td align="center">☁️<br/><b>Cloud Data Platforms</b><br/><sub>Scalable architecture</sub></td>
-</tr>
-</table>
-
----
-
-## 🗺️ Engineering Roadmap
-
-```text
+🗺️ Engineering Roadmap
                     ┌───────────────────────────┐
                     │   CLOUD DATA ENGINEER     │
                     └─────────────┬─────────────┘
@@ -281,35 +235,21 @@ jobs:
             └─────────────────────┼─────────────────────┘
                                   ▼
                          🚀 Production Systems
-```
+🎓 Background
+Tata Consultancy Services · Cloud Data Engineer
+June 2024 → Present
 
----
+Chandigarh University · Bachelor of Engineering, Computer Science
+2020 → 2024 · CGPA 7.98
 
-## 🎓 Background
-
-**Tata Consultancy Services** · Cloud Data Engineer  
-`June 2024 → Present`
-
-**Chandigarh University** · Bachelor of Engineering, Computer Science  
-`2020 → 2024` · **CGPA 7.98**
-
----
-
-## 📫 Connect With Me
-
+📫 Connect With Me
 <div align="center">
 
-<a href="mailto:singhabhinav.aks@gmail.com">
-<img src="https://img.shields.io/badge/Email-singhabhinav.aks%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Abhinav-K-Singh">
-<img src="https://img.shields.io/badge/GitHub-Abhinav--K--Singh-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="mailto:singhabhinav.aks@gmail.com"> <img src="https://img.shields.io/badge/Email-singhabhinav.aks%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Abhinav-K-Singh"> <img src="https://img.shields.io/badge/GitHub-Abhinav--K--Singh-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 <!-- Replace the URL below with your actual LinkedIn profile -->
-<a href="https://www.linkedin.com/in/abhinav712/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
+<a href="https://www.linkedin.com/in/abhinav712/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <br><br>
 
@@ -317,11 +257,8 @@ jobs:
 
 <br><br>
 
-### `data → pipelines → platforms → impact`
-
+data → pipelines → platforms → impact
 </div>
-
----
 
 <div align="center">
 
