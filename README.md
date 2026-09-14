@@ -1,151 +1,425 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinav+Kumar+Singh;Cloud+Data+Engineer+%40+TCS;Azure+Databricks+%7C+Snowflake+%7C+PySpark;Turning+10M%2B+records+into+clean+insights;Exploring+Agentic+AI+%2B+Finance+Automation" alt="Typing SVG" />
+👋 Hey, I'm Abhinav
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400"/>
+Developer • Builder • Explorer • Professional Bug Negotiator
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+things+I+find+interesting.;I+learn+by+breaking+things.;Sometimes+the+bugs+win.;But+I+usually+come+back+for+the+rematch+%F0%9F%98%8E" alt="Typing SVG"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=2E9EF7&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Email-singhabhinav.aks%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhabhinav.aks@gmail.com)
-[![Location](https://img.shields.io/badge/Based_in-Lucknow%2C_India-2E9EF7?style=flat-square&logo=googlemaps&logoColor=white)](#)
+<br>
 
-<sub>👀 View counter is real-ish — it counts image loads, not unique visitors (GitHub's caching + bots skew it). Fun to watch, not a KPI.</sub>
+<a href="https://github.com/Abhinav-K-Singh">
+<img src="https://img.shields.io/badge/GitHub-Abhinav--K--Singh-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abhinav712/">
+<img src="https://img.shields.io/badge/LinkedIn-Abhinav%20712-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:singhabhinav.aks@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Abhinav-K-Singh&style=for-the-badge&color=0ea5e9&label=VISITORS"/>
 
 </div>
 
----
+🧑‍💻 A little about me
 
-### 👨‍💻 About Me
+name: Abhinav Kumar Singh
+location: India
+role: Developer
+status: Always learning
+fuel:
+  - ☕ Coffee
+  - 🎧 Music
+  - 🧠 Curiosity
+  - 🔥 Random side projects
 
-```yaml
-role: Cloud Data Engineer
-company: Tata Consultancy Services
-location: Kolkata, West Bengal, India (originally from Lucknow, UP)
-experience: 2+ years
-focus: ETL/ELT pipelines @ enterprise scale (10M+ records, 1000+ files)
-currently_exploring: ["Agentic AI data readiness"]
-education: B.E. Computer Science, Chandigarh University (CGPA 7.98)
-```
+current_mission:
+  "Build something interesting before the next rabbit hole appears."
 
-I build and maintain **production-grade data pipelines** on Azure Databricks and Snowflake — the kind that keep enterprise reporting alive at scale. I care about data quality, clean documentation, and pipelines that don't break at 2 AM.
+I like technology, experimenting with ideas, learning new tools and turning
+random thoughts into things that actually run.
+
+Sometimes that means a useful project.
+
+Sometimes it means a README with a game inside it.
+
+Both are valid engineering. 😌
+
+🧰 My Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,azure,git,github,linux,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://cdn.simpleicons.org/databricks/FF3621" height="48"/>
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48"/>
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
+</div>
+
+🎮 README Arcade
+
+Warning: You are now entering the least productive section of this profile.
 
 <details>
-<summary>🎮 Click for a fun fact (achievement unlocked)</summary>
+<summary>🕹️ GAME 1: Fight the Bug</summary>
+
 <br>
 
-🏆 Awarded **Applause Awards ×2** and **Spot Awards ×2** for pharma-client data delivery — so somewhere out there, a production Snowflake pipeline is running smoother because of a spreadsheet-turned-Medallion-Architecture rebuild.
+             🐛
+          .-""""-.
+         /  BUG!  \
+        |  ಠ_ಠ    |
+         \        /
+          '-.__.-'
+
+      ❤️ ❤️ ❤️ ❤️ ❤️
+      HP: 100 / 100
+
+Choose your move:
+
+<details>
+<summary>⚔️ Attack</summary>
+
+You attacked with:
+    console.log("WHY?!");
+
+Critical hit!
+
+🐛 took 3 damage.
+
+Bug HP: 97 / 100
+
+The bug has evolved.
 
 </details>
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,python,git,githubactions,postgres,azuresqldatabase&theme=dark" />
-
-<br/><br/>
-
-![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![ADLS](https://img.shields.io/badge/Azure_Data_Lake-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Control-M](https://img.shields.io/badge/Control--M-black?style=for-the-badge)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-</div>
-
----
-
-
-
-### 🏆 Certifications & Recognition
-
-- 🎖️ **Databricks Certified Data Engineer Associate**
-- 🌟 **Applause Award** ×2 — timely delivery & quality on a major pharmaceutical client engagement
-- ⭐ **Spot Award** ×2 — high-quality data solutions using Databricks, Snowflake & ADF
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-K-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-K-Singh&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
-
-</div>
-
-<div align="center">
-<sub>⚠️ If these show broken/blank cards after you swap in your real username, it's usually the shared vercel instance being rate-limited (it serves millions of profiles). Wait a few minutes, or deploy your own free copy at <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">github-readme-stats → Deploy on your own</a> and swap the domain in.</sub>
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-A snake that eats its way through your contribution graph — regenerates automatically via GitHub Actions. Real, not a gimmick image.
-
 <details>
-<summary>⚙️ 3-step setup (takes 2 minutes)</summary>
-<br>
+<summary>🧠 Debug</summary>
 
-1. In your profile repo (`your-username/your-username`), add a workflow file at `.github/workflows/snake.yml` using the [Platane/snk action](https://github.com/Platane/snk#-usage).
-2. Commit — the Action runs on a schedule and on push, generating an SVG of the snake eating your contribution squares.
-3. Reference the generated SVG here:
+You added one print statement.
 
-```md
-![snake](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg)
-```
+The bug disappeared.
+
+You changed nothing else.
+
+Result:
+SUCCESS
+
+Reason:
+Unknown.
+
+This is probably fine.
 
 </details>
 
----
-
-### 🌱 Currently Exploring
-
-```
-[■■■■■■■■□□] Agentic AI for data pipeline readiness
-[■■■■■■□□□□] Finance automation use cases
-[■■■■■■■■■□] Advanced Spark performance tuning
-```
-
 <details>
-<summary>💬 Ask me about...</summary>
-<br>
+<summary>🔥 Delete the code</summary>
 
-- Why Medallion Architecture beats a flat "dump everything in one layer" approach
-- How to shave 30%+ off manual pipeline maintenance with dependency auto-detection
-- Whether Snowflake or Databricks SQL warehouses win for your workload (it depends, and I'll tell you why)
+git status
+
+3 files changed
+847 lines deleted
+
+You feel strangely peaceful.
+
+Achievement unlocked:
+💀 "It works now"
 
 </details>
 
----
+</details>
+
+<details>
+<summary>🎲 GAME 2: Pick Your Developer Class</summary>
+
+<br>
+
+Class
+
+Power
+
+Weakness
+
+🧙 Debug Wizard
+
+Finds invisible bugs
+
+Creates 3 new ones
+
+🥷 Git Ninja
+
+Survives merge conflicts
+
+Pushes to wrong branch
+
+🤖 Automation Bot
+
+Automates everything
+
+Automates the wrong thing
+
+🧑‍💻 Developer
+
+Can Google anything
+
+"Just one small change..."
+
+<details>
+<summary>🧙 Debug Wizard</summary>
+
+DEBUG +50 STACKOVERFLOW +20 SLEEP -10
+
+</details>
+
+<details>
+<summary>🥷 Git Ninja</summary>
+
+GIT +100 MERGE CONFLICT -30
+
+</details>
+
+<details>
+<summary>🤖 Automation Bot</summary>
+
+AUTOMATION +100 LAZINESS +∞
+
+</details>
+
+<details>
+<summary>🧑‍💻 Developer</summary>
+
+GOOGLE-FU +999 DOCUMENTATION +404
+
+</details>
+
+</details>
+
+<details>
+<summary>🎰 GAME 3: Developer Loot Box</summary>
+
+<br>
+
+Open at your own risk.
+
+╔══════════════════════════════════╗
+║          📦 LOOT BOX             ║
+╠══════════════════════════════════╣
+║                                  ║
+║       [  OPEN  ]                 ║
+║                                  ║
+╚══════════════════════════════════╝
+
+<details>
+<summary>🔓 Open</summary>
+
+You received:
+
+☕ +1 Coffee
+🧠 +5 Knowledge
+🐛 +7 Bugs
+🌙 -2 Hours of Sleep
+⭐ +1 "I should build this" idea
+
+Legendary item obtained:
+
+ONE MORE FEATURE
+
+It has no known expiration date.
+
+</details>
+
+</details>
+
+🧪 Developer Personality Test
+
+You see:
+
+    Error: Something went wrong.
+
+What do you do?
+
+A → Restart the application
+B → Restart the computer
+C → Search the error on Google
+D → Stare at the screen
+E → All of the above, in that order
+
+<details>
+<summary>🧠 Reveal the scientifically accurate answer</summary>
+
+E.
+
+There was never another option.
+
+</details>
+
+🧩 Secret Developer Achievements
+
+<details>
+<summary>🏆 Click to unlock achievements</summary>
+
+<br>
+
+🟩 Hello World — Written at least once
+
+🐛 Bug Hunter — Fixed a bug that created another bug
+
+🔥 Night Coder — Said "I'll stop after this"
+
+⚔️ Merge Survivor — Survived a conflict
+
+🧙 Stack Overflow Mage — Found the exact answer
+
+🗿 Works on My Machine — A timeless classic
+
+🚀 Ship It — Pushed before overthinking
+
+💀 Production Incident — Character development unlocked
+
+☕ Coffee Powered — System running above recommended caffeine limits
+
+</details>
+
+📊 GitHub Command Center
 
 <div align="center">
 
-### 🤝 Let's Connect
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-K-Singh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Abhinav's%20GitHub" height="180"/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:singhabhinav.aks@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-K-Singh&layout=compact&langs_count=8&hide_border=true&custom_title=Languages" height="180"/>
 
-<br/>
+<br><br>
 
-*"Clean data in, reliable insights out."*
+<img src="https://streak-stats.demolab.com?user=Abhinav-K-Singh&hide_border=true&mode=weekly" width="70%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer"/>
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abhinav-K-Singh/Abhinav-K-Singh/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake"/>
+
+</div>
+
+<details>
+<summary>⚙️ Want the snake to actually work?</summary>
+
+Create:
+
+.github/workflows/snake.yml
+
+and add:
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+
+</details>
+
+🌌 Random Things I Enjoy
+
+<div align="center">
+
+🧠
+
+🎮
+
+🎧
+
+🚀
+
+Learning
+
+Gaming
+
+Music
+
+Building
+
+Curiosity
+
+Strategy
+
+Discovery
+
+Experiments
+
+</div>
+
+🧭 Current Status
+
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  🧠 Learning       ████████████████████░░  90%   │
+│  💻 Building       █████████████████░░░░░  80%   │
+│  ☕ Coffee         ██████████████████████  100%  │
+│  😴 Sleeping       ███████░░░░░░░░░░░░░  35%    │
+│  🐛 Fighting Bugs  ████████████████████  99%    │
+│                                                  │
+└──────────────────────────────────────────────────┘
+
+🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Abhinav-K-Singh">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhinav712/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:singhabhinav.aks@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+Thanks for visiting 👋
+
+while (alive) { learn(); build(); breakThings(); fixThings(); }
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=110&section=footer" width="100%"/>
 
 </div>
